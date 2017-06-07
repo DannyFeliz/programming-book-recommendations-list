@@ -1,5 +1,5 @@
 ### Books
-A list of books that I recommend you to read if you are a software developer
+My personal list of books that I recommend to read if you are a software developer
 
 **Code**
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
